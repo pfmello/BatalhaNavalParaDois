@@ -1,0 +1,10 @@
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\bin\Debug\BatalhaNavalLibrary.dll
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\bin\Debug\BatalhaNavalLibrary.pdb
+C:\Users\phili\source\repos\BatalhaNavalPara2\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

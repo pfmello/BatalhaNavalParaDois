@@ -1,0 +1,6 @@
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\bin\Debug\BatalhaNavalLibrary.dll
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\bin\Debug\BatalhaNavalLibrary.pdb
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\obj\Debug\BatalhaNavalLibrary.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\obj\Debug\BatalhaNavalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\obj\Debug\BatalhaNavalLibrary.dll
+C:\Users\phili\source\repos\BatalhaNavalPara2\BatalhaNavalLibrary\obj\Debug\BatalhaNavalLibrary.pdb
