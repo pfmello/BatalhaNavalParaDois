@@ -1,2 +1,2 @@
 # BatalhaNavalParaDois
-Batalha Naval para dois jogadores
+Batalha Naval para dois jogadores, criado no C#.
